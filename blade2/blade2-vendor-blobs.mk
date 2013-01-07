@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade2/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/zte/blade2/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/zte/blade2/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/zte/blade2/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/zte/blade2/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/zte/blade2/proprietary/etc/BCM4330B1_0243.0000_ZTE_P736V.hcd:system/etc/BCM4330B1_0243.0000_ZTE_P736V.hcd \
     vendor/zte/blade2/proprietary/etc/BCM4330B1_002.001.032.0518.0520.hcd:system/etc/BCM4330B1_002.001.032.0518.0520.hcd \
